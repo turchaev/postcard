@@ -13,6 +13,8 @@
 		84CC14EE1A6F6B5A009BEED7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84CC14ED1A6F6B5A009BEED7 /* Images.xcassets */; };
 		84CC14F11A6F6B5A009BEED7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84CC14EF1A6F6B5A009BEED7 /* LaunchScreen.xib */; };
 		84CC14FD1A6F6B5A009BEED7 /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CC14FC1A6F6B5A009BEED7 /* postcardTests.swift */; };
+		84CC15071A6F71DA009BEED7 /* Круг.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC15061A6F71DA009BEED7 /* Круг.png */; };
+		84CC15091A6F7571009BEED7 /* heic1406a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84CC15081A6F7571009BEED7 /* heic1406a.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		84CC14F61A6F6B5A009BEED7 /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84CC14FB1A6F6B5A009BEED7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84CC14FC1A6F6B5A009BEED7 /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		84CC15061A6F71DA009BEED7 /* Круг.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Круг.png"; sourceTree = "<group>"; };
+		84CC15081A6F7571009BEED7 /* heic1406a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heic1406a.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				84CC14E51A6F6B5A009BEED7 /* Info.plist */,
+				84CC15081A6F7571009BEED7 /* heic1406a.jpg */,
+				84CC15061A6F71DA009BEED7 /* Круг.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -195,6 +201,8 @@
 				84CC14EC1A6F6B5A009BEED7 /* Main.storyboard in Resources */,
 				84CC14F11A6F6B5A009BEED7 /* LaunchScreen.xib in Resources */,
 				84CC14EE1A6F6B5A009BEED7 /* Images.xcassets in Resources */,
+				84CC15071A6F71DA009BEED7 /* Круг.png in Resources */,
+				84CC15091A6F7571009BEED7 /* heic1406a.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
